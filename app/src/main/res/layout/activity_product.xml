@@ -44,7 +44,7 @@
                     android:layout_height="wrap_content"
                     android:textSize="@dimen/_13sdp"
                     android:layout_marginTop="@dimen/_32sdp"
-                    android:text="@string/product_color"
+                    android:text="با سس مخصوص"
                     android:textColor="@color/colorAccent"/>
 
                 <TextView
